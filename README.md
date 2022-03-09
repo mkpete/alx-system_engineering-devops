@@ -1,1 +1,1 @@
-# devops readme
+# Shell basics readme
